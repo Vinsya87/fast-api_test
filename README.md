@@ -1,4 +1,5 @@
 # fast-api_test
 Эксперименты с FastApi по одному из заданий<br>
 запуск проекта <br>
-python3 -m venv venv && . venv/bin/activate && python -m pip install --upgrade pip && python -m pip install -r requirements.txt && cd myproject && uvicorn main:app --reload
+python3 -m venv venv && . venv/bin/activate && python -m pip install --upgrade pip && python -m pip install -r requirements.txt && cd myproject && uvicorn main:app --reload<br>
+документация http://127.0.0.1:8000/docs
